@@ -1,2 +1,1 @@
-My first readme
-I just edited my README.md file
+Software engineer from ALX
